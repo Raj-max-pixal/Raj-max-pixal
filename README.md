@@ -119,12 +119,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Raj-max-pixal&theme=tokyonight&no-frame=true&row=1)
-
----
-
 # 🐍 Contribution Snake
 
 ![](https://raw.githubusercontent.com/Raj-max-pixal/Raj-max-pixal/output/github-contribution-grid-snake.svg)
