@@ -223,17 +223,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raj-max-pixal&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
-
----
-
-# 🎮 GitHub Activity Game
+# 📈 GitHub Activity Graph
 
 <div align="center">
 
@@ -251,25 +241,7 @@
 
 </div>
 
----
-
-# 🏔️ Contribution Journey
-
-<div align="center">
-
-<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=Raj-max-pixal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
-# 🌟 Profile Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raj-max-pixal&theme=tokyonight"/>
-
-</div>
+<br>
 
 ---
 
@@ -278,23 +250,33 @@
 <div align="center">
 
 <a href="https://github.com/Raj-max-pixal">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/raja-saranya-t-ba9545342/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <a href="https://www.instagram.com/its.me_ra_s_12/">
+
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+
 </a>
 
 <a href="https://multimax.site">
+
 <img src="https://img.shields.io/badge/MultiMax-000000?style=for-the-badge"/>
+
 </a>
 
 <a href="mailto:rajasaranyaraj20@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
 </a>
 
 </div>
