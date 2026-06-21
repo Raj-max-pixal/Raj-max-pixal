@@ -247,7 +247,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Raj-max-pixal/Raj-max-pixal/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Raj-max-pixal/Raj-max-pixal/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
