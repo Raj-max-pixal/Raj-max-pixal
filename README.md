@@ -245,15 +245,7 @@
 
 ---
 
-# 🏔️ GitHub Metrics
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Raj-max-pixal/Raj-max-pixal/main/metrics.svg"/>
-
-</div>
-
----
 
 # 📫 Connect With Me
 
