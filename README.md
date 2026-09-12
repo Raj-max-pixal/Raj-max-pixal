@@ -88,112 +88,482 @@
 </table>
 
 # 🛠️ Tech Stack
+<!-- ========================================================= -->
+<!--                    TECH STACK                            -->
+<!-- ========================================================= -->
 
-## 🤖 AI / ML / Deep Learning
+<h2 align="center">⚡ TECH STACK</h2>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
+<p align="center">
+  <b>Some of the technologies, tools and services with which I have extensive experience</b>
 </p>
 
-<p>
+<br>
 
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<!-- ================= PROGRAMMING ================= -->
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<table align="center">
+<tr>
+<td colspan="6">
 
-</p>
+<h3>💻 Programming Languages</h3>
 
----
+</td>
+</tr>
 
-## 🧠 Generative AI / LLM
+<tr>
 
-<p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"><br>
+<a href="https://www.python.org/">Python</a>
+</td>
 
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="50"><br>
+<a href="https://en.cppreference.com/w/c">C</a>
+</td>
 
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"><br>
+<a href="https://isocpp.org/">C++</a>
+</td>
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="50"><br>
+<a href="https://www.java.com/">Java</a>
+</td>
 
-<img src="https://img.shields.io/badge/Llama-6B46C1?style=for-the-badge"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="50"><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+</td>
 
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript" width="50"><br>
+<a href="https://www.typescriptlang.org/">TypeScript</a>
+</td>
 
----
+</tr>
 
-## 🌐 Frontend
+<tr>
 
-<p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=go" width="50"><br>
+<a href="https://go.dev/">Go</a>
+</td>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=rust" width="50"><br>
+<a href="https://www.rust-lang.org/">Rust</a>
+</td>
 
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" width="50"><br>
+<a href="https://www.gnu.org/software/bash/">Bash</a>
+</td>
 
----
+</tr>
+</table>
 
-## 📱 Mobile Development
+<br>
 
-<p>
+<!-- ================= FRONTEND ================= -->
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
+<table align="center">
+<tr>
+<td colspan="8">
 
-</p>
+<h3>🌐 Frontend Development</h3>
 
----
+</td>
+</tr>
 
-## ⚙️ Backend
+<tr>
 
-<p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"><br>
+<a href="https://react.dev/">React</a>
+</td>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"><br>
+<a href="https://nextjs.org/">Next.js</a>
+</td>
 
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="50"><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a>
+</td>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="50"><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a>
+</td>
 
-## 🗄️ Database
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"><br>
+<a href="https://tailwindcss.com/">Tailwind CSS</a>
+</td>
 
-<p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"><br>
+<a href="https://getbootstrap.com/">Bootstrap</a>
+</td>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sass" width="50"><br>
+<a href="https://sass-lang.com/">SASS</a>
+</td>
 
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mui" width="50"><br>
+<a href="https://mui.com/">MUI</a>
+</td>
 
----
+</tr>
 
-## ☁️ Cloud / DevOps
+<tr>
 
-<p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=shadcn" width="50"><br>
+<a href="https://ui.shadcn.com/">Shadcn UI</a>
+</td>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="50"><br>
+<a href="https://www.figma.com/">Figma</a>
+</td>
 
-</p>
+</tr>
+</table>
 
----
+<br>
 
-## 🔒 Cybersecurity
+<!-- ================= BACKEND ================= -->
 
-<p>
+<table align="center">
+<tr>
+<td colspan="8">
 
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<h3>⚙️ Backend Development</h3>
 
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<tr>
 
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>
+<a href="https://nodejs.org/">Node.js</a>
+</td>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="50"><br>
+<a href="https://expressjs.com/">Express.js</a>
+</td>
 
-## 🧰 Developer Tools
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"><br>
+<a href="https://www.python.org/">Python</a>
+</td>
 
-<p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="50"><br>
+<a href="https://www.djangoproject.com/">Django</a>
+</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" width="50"><br>
+<a href="https://flask.palletsprojects.com/">Flask</a>
+</td>
 
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"><br>
+<a href="https://fastapi.tiangolo.com/">FastAPI</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=graphql" width="50"><br>
+<a href="https://graphql.org/">GraphQL</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=laravel" width="50"><br>
+<a href="https://laravel.com/">Laravel</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= DATABASE ================= -->
+
+<table align="center">
+<tr>
+<td colspan="8">
+
+<h3>🗄️ Databases & Caching</h3>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"><br>
+<a href="https://www.mysql.com/">MySQL</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"><br>
+<a href="https://www.postgresql.org/">PostgreSQL</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"><br>
+<a href="https://www.mongodb.com/">MongoDB</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" width="50"><br>
+<a href="https://redis.io/">Redis</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mariadb" width="50"><br>
+<a href="https://mariadb.org/">MariaDB</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50"><br>
+<a href="https://www.sqlite.org/">SQLite</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="50"><br>
+<a href="https://supabase.com/">Supabase</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="50"><br>
+<a href="https://firebase.google.com/">Firebase</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= AI / ML ================= -->
+
+<table align="center">
+<tr>
+<td colspan="6">
+
+<h3>🤖 AI & Machine Learning</h3>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"><br>
+Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"><br>
+TensorFlow
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50"><br>
+PyTorch
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=opencv" width="50"><br>
+OpenCV
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= TOOLS ================= -->
+
+<table align="center">
+<tr>
+<td colspan="8">
+
+<h3>🛠️ Tools & Services</h3>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"><br>
+<a href="https://git-scm.com/">Git</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"><br>
+<a href="https://github.com/">GitHub</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"><br>
+<a href="https://www.docker.com/">Docker</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50"><br>
+Kubernetes
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="50"><br>
+<a href="https://www.postman.com/">Postman</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"><br>
+VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="50"><br>
+Linux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nginx" width="50"><br>
+Nginx
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= CLOUD ================= -->
+
+<table align="center">
+<tr>
+<td colspan="8">
+
+<h3>☁️ Cloud & DevOps</h3>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="50"><br>
+AWS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gcp" width="50"><br>
+Google Cloud
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=azure" width="50"><br>
+Azure
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="50"><br>
+Cloudflare
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"><br>
+Vercel
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=netlify" width="50"><br>
+Netlify
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=terraform" width="50"><br>
+Terraform
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jenkins" width="50"><br>
+Jenkins
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= CYBERSECURITY ================= -->
+
+<table align="center">
+<tr>
+<td colspan="6">
+
+<h3>🛡️ Cybersecurity</h3>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kali" width="50"><br>
+Kali Linux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="50"><br>
+Linux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" width="50"><br>
+Bash
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"><br>
+Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nginx" width="50"><br>
+Nginx
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       ⚡ BEYOND TECH • BEYOND LIMIT ⚡       ║
+║                                              ║
+║       BUILD • LEARN • EXPLORE • CREATE      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
 ---
 # 🚀 Featured Projects
