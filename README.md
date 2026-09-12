@@ -305,6 +305,12 @@
   >
 </p>
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Raj-max-pixal.github.readme" />
+</p>
+
 <!-- ================= END CONTRIBUTION GRAPH ================= -->
 
 # 📫 Connect With Me
