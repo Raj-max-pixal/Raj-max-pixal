@@ -279,14 +279,16 @@
 
 <hr>
 
-<h2>🐍 Contribution Graph</h2>
+<hr>
+
+<h2>🎮 Contribution Arcade</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Raj-max-pixal/Raj-max-pixal/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Raj-max-pixal/Raj-max-pixal/output/pacman-contribution-graph.svg"
     width="100%"
-  />
+    alt="Pac-Man Contribution Graph"
+  >
 </p>
 
 <!-- ================= END CONTRIBUTION GRAPH ================= -->
