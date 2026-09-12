@@ -556,16 +556,10 @@ Nginx
 
 <p align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       ⚡ BEYOND TECH • BEYOND LIMIT ⚡       ║
-║                                              ║
-║       BUILD • LEARN • EXPLORE • CREATE      ║
-║                                              ║
-╚══════════════════════════════════════════════╝
 
----
+-----
+
+
 # 🚀 Featured Projects
 
 | Project | Description |
