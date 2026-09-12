@@ -275,7 +275,21 @@
 
 ---
 
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
+<hr>
+
+<h2>🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Raj-max-pixal/Raj-max-pixal/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+<!-- ================= END CONTRIBUTION GRAPH ================= -->
 
 # 📫 Connect With Me
 
