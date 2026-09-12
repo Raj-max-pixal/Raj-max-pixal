@@ -24,31 +24,61 @@
 
 # 🧑‍💻 About Me
 
-- 🎓 B.Tech Information Technology Student (2028)
+<table>
+<tr>
 
-- 💻 AI Full Stack Developer
+<td width="60%" valign="top">
 
-- ⚙️ AI Automation Engineer
+<h2>👨‍💻 About Me</h2>
 
-- 🤖 AI Explorer
+<p>🎓 <strong>B.Tech Information Technology Student</strong> (2028)</p>
 
-- 🛡️ Cybersecurity Enthusiast
+<p>💻 <strong>AI Full Stack Developer</strong></p>
 
-- 🚀 Founder of MultiMax
+<p>⚙️ <strong>AI Automation Engineer</strong></p>
 
-- ☁️ Learning Cloud Computing
+<p>🤖 <strong>AI Explorer</strong></p>
 
-- 🔒 Learning Ethical Hacking
+<p>🛡️ <strong>Cybersecurity Enthusiast</strong></p>
 
-- 📱 App Developer
+<p>🚀 <strong>Founder of MultiMax</strong></p>
 
-- 🎮 Game Developer
+<p>☁️ <strong>Learning Cloud Computing</strong></p>
 
-- 🖥️ Software Developer
+<p>🔐 <strong>Learning Ethical Hacking</strong></p>
 
-- 🎯 Goal: Build MultiMax into a global tech company
+<p>📱 <strong>App Developer</strong></p>
 
----
+<p>🎮 <strong>Game Developer</strong></p>
+
+<p>🖥️ <strong>Software Developer</strong></p>
+
+<p>🎯 <strong>Goal:</strong> Build MultiMax into a global tech company</p>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation">
+
+<br><br>
+
+<h3>🚀 Building The Future</h3>
+
+<p>AI • Automation • Software • Security</p>
+
+<br>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240" alt="Developer Animation">
+
+<br><br>
+
+<img src="https://media.giphy.com/media/n1eNbXd76eDHG/giphy.gif" width="240" alt="Nobita Animation">
+
+</td>
+
+</tr>
+</table>
 
 # 🛠️ Tech Stack
 
