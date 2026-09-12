@@ -1,3 +1,6 @@
+<img width="2048" height="599" alt="logo banner" src="https://github.com/user-attachments/assets/e4c002a9-c26c-4b55-8433-8bce2147ba16" />
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Raj%20Saranya&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Full%20Stack%20Developer%20|%20AI%20Explorer%20|%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18"/>
