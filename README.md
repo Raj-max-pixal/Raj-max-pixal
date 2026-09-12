@@ -58,6 +58,10 @@
 
 <p>🎯 <strong>Goal:</strong> Build MultiMax into a global tech company</p>
 
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZjB2YTB0MmNpNWc3OGg3bGQzdmRhaHFzbXV5bXR1dGJ5YmZyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlTBaAkpL6VbSp6o50/giphy.gif" width="500" height="400" alt="Hello">
+
+
 </td>
 
 <td width="40%" align="center" valign="middle">
