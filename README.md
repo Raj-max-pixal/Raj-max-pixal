@@ -562,15 +562,105 @@ Nginx
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌍 EcoMind AI | Carbon footprint awareness platform |
-| 🤖 AI Alert Analyst | AI-powered SOC security triage assistant |
-| 📱 Werzex | Social media application |
-| ☕ CoffeeHome | Coffee ordering application |
-| 🛒 MultiMax Food | Food delivery application |
-| 🎬 Multiflix | Movie streaming UI |
-| 🎌 AnimeVerse | Anime discovery website |
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         PROJECTS                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+# 🚀 Projects
+
+| Project | Description | Links |
+|:---|:---|:---:|
+| **Lumi** | A polished software application focused on practical functionality and a smooth user experience. | [Live ↗](YOUR_LUMI_LIVE_URL) · [GitHub ↗](YOUR_LUMI_GITHUB_URL) |
+| **Maxie** | An AI-powered application built around intelligent features and practical user interaction. | [Live ↗](YOUR_MAXIE_LIVE_URL) · [GitHub ↗](YOUR_MAXIE_GITHUB_URL) |
+| **MultiMax AI Hub** | An AI-focused platform bringing multiple intelligent capabilities together in one experience. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **MultiMax Food** | A food-focused application developed as part of the MultiMax project ecosystem. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **AnimeVerse** | An anime-focused project designed around entertainment and content discovery. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **Tempumax** | A dedicated application project developed as part of the software portfolio. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **Premium Calculator** | A polished calculator application designed for a clean and practical calculation experience. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         HACKATHONS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+# 🏆 Hackathons
+
+| Project | Hackathon | Description | Links |
+|:---|:---|:---|:---:|
+| **GenYCAI** | *Hackathon Name* | An AI-focused solution developed to address a practical problem through intelligent technology. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **EcoMind AI** | *Hackathon Name* | An AI-driven solution focused on applying technology to environmental challenges. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **StationMind AI** | *Hackathon Name* | An AI-powered solution designed around smarter station experiences and automation. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **StudyBuddy AI Queen** | *Hackathon Name* | An AI-powered learning companion designed to make studying more interactive and accessible. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **MultiMax AI Growth Studio** | *Hackathon Name* | An AI-powered growth and productivity solution developed during a hackathon. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **Carrefour** | *Hackathon Name* | A digital solution developed around a practical user or business challenge. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **Farmer App** | *Hackathon Name* | A digital solution designed to make useful technology more accessible to farmers. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  COLLABORATIVE PROJECTS                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+# 🤝 Collaborative Projects
+
+| Project | Description | Contribution | Links |
+|:---|:---|:---|:---:|
+| **Study Notes Sharing** | A collaborative learning platform designed to make study resources easier to share and access. | Development | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **Fitness Tracker** | A fitness-focused application designed to help users track activity and monitor progress. | Development | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       CYBERSECURITY                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+# 🔐 Cybersecurity
+
+| Project | Description | Status | Link |
+|:---|:---|:---:|:---:|
+| **Instagram Phishing** | A security-learning project exploring phishing techniques and social-engineering risks in a controlled environment. | 🟢 Completed | [GitHub ↗](YOUR_URL) |
+| **MobCam Hacking** | A cybersecurity research project focused on understanding mobile-camera security risks in an authorized environment. | 🔵 Upcoming | — |
+| **Wi-Fi Hacking** | A network-security learning project focused on understanding Wi-Fi vulnerabilities and defensive security. | 🔵 Upcoming | — |
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         CODING                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+# 🧩 Coding
+
+| Platform | Description | Links |
+|:---|:---|:---:|
+| **LeetCode** | Daily algorithm, data-structure, and problem-solving practice with solutions maintained on GitHub. | [Profile ↗](YOUR_LEETCODE_URL) · [GitHub ↗](YOUR_LEETCODE_GITHUB_URL) |
+| **HackerRank** | Programming challenges and problem-solving solutions maintained as a coding archive. | [Profile ↗](YOUR_HACKERRANK_URL) · [GitHub ↗](YOUR_HACKERRANK_GITHUB_URL) |
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    REAL-WORLD PROJECTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+# 🌍 Real-World Projects
+
+| Project | Description | Links |
+|:---|:---|:---:|
+| **David Dental Clinic** | A real-world website project developed for a dental clinic with a professional and accessible online presence. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED DIVIDER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%">
+</p>
+
+<p align="center">
+  <sub>✦ Build • Learn • Experiment • Ship ✦</sub>
+</p>
 
 ---
 
