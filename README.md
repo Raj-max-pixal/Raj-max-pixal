@@ -588,13 +588,13 @@ Nginx
 
 | Project | Hackathon | Description | Links |
 |:---|:---|:---|:---:|
-| **JanVoice AI** | *Hackathon Name* | An AI-focused solution developed to address a practical problem through intelligent technology. | [Live ↗](https://janvoice-ai-gxcz.vercel.app/) · [GitHub ↗](YOUR_URL) |
-| **EcoMind AI** | *Hackathon Name* | An AI-driven solution focused on applying technology to environmental challenges. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
-| **StationMind AI** | *Hackathon Name* | An AI-powered solution designed around smarter station experiences and automation. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
-| **StudyBuddy AI Queen** | *Hackathon Name* | An AI-powered learning companion designed to make studying more interactive and accessible. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
-| **MultiMax AI Growth Studio** | *Hackathon Name* | An AI-powered growth and productivity solution developed during a hackathon. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
-| **Carrefour** | *Hackathon Name* | A digital solution developed around a practical user or business challenge. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
-| **Farmer App** | *Hackathon Name* | A digital solution designed to make useful technology more accessible to farmers. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **JanVoice AI** | *PromptWars – Google for Developers × Hack2skill"* | An AI-focused solution developed to address a practical problem through intelligent technology. | [Live ↗](https://janvoice-ai-gxcz.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/janvoice-ai) |
+| **EcoMind AI** | *PromptWars – Google for Developers × Hack2skill"* | An AI-driven solution focused on applying technology to environmental challenges. | [Live ↗](https://ecomind-ai-alpha.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/ecomind-ai/) |
+| **StadiumMind AI** | *PromptWars – Google for Developers × Hack2skill"* | An AI-powered solution designed around smarter station experiences and automation. | [Live ↗](YOUR_URL) · [GitHub ↗](https://github.com/Raj-max-pixal/Stadiummind-AI) |
+| **StudyBuddy AI Queen** | *Global AI Hackathon Series with Qwen Cloud * | An AI-powered learning companion designed to make studying more interactive and accessible. | [Live ↗](https://studybuddy-ai-qwen.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/studybuddy-ai-qwen) |
+| **MultiMax AI Growth Studio** | *HackIndia* | An AI-powered growth and productivity solution developed during a hackathon. | [Live ↗](https://multimax-ai-growth-studio.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/multimax-ai-growth-studio) |
+| **Carreforge** | *Agent League-Microsoft x Devpost* | A digital solution developed around a practical user or business challenge. | [Live ↗](https://careerforge-ai-2-wma7.onrender.com/) · [GitHub ↗]((https://github.com/Raj-max-pixal/CareerForge-AI)) |
+| **Farmer App** | *SIH-2026* | A digital solution designed to make useful technology more accessible to farmers. | [Live ↗](https://farmer-app-one.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/Farmer-App) |
 
 <br>
 
