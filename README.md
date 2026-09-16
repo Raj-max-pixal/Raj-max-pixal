@@ -588,7 +588,7 @@ Nginx
 
 | Project | Hackathon | Description | Links |
 |:---|:---|:---|:---:|
-| **JanVoice AI** | *Hackathon Name* | An AI-focused solution developed to address a practical problem through intelligent technology. | [Live ↗]((https://janvoice-ai-gxcz.vercel.app/)) · [GitHub ↗](YOUR_URL) |
+| **JanVoice AI** | *Hackathon Name* | An AI-focused solution developed to address a practical problem through intelligent technology. | [Live ↗](https://janvoice-ai-gxcz.vercel.app/) · [GitHub ↗](YOUR_URL) |
 | **EcoMind AI** | *Hackathon Name* | An AI-driven solution focused on applying technology to environmental challenges. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
 | **StationMind AI** | *Hackathon Name* | An AI-powered solution designed around smarter station experiences and automation. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
 | **StudyBuddy AI Queen** | *Hackathon Name* | An AI-powered learning companion designed to make studying more interactive and accessible. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
