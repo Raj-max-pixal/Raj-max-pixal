@@ -595,6 +595,7 @@ Nginx
 | **MultiMax AI Growth Studio** | *HackIndia* | An AI-powered growth and productivity solution developed during a hackathon. | [Live ↗](https://multimax-ai-growth-studio.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/multimax-ai-growth-studio) |
 | **Carreforge** | *Agent League-Microsoft x Devpost* | A digital solution developed around a practical user or business challenge. | [Live ↗](https://careerforge-ai-2-wma7.onrender.com/) · [GitHub ↗](https://github.com/Raj-max-pixal/CareerForge-AI) |
 | **Farmer App** | *SIH-2026* | A digital solution designed to make useful technology more accessible to farmers. | [Live ↗](https://farmer-app-one.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/Farmer-App) |
+| **HealthMate** | *Infosmite* | Intuitive healthcare management system to assist users in keeping track of their health, symptoms, mental health resources, consultations with doctors | [Live ↗](healthmate-five.vercel.app) · [GitHub ↗](https://github.com/Raj-max-pixal/Healthmate) |
 
 <br>
 
