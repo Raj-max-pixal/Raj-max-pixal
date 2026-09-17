@@ -646,7 +646,7 @@ Nginx
 
 | Project | Description | Links |
 |:---|:---|:---:|
-| **David Dental Clinic** | A real-world website project developed for a dental clinic with a professional and accessible online presence. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **David Dental Clinic** | A real-world website project developed for a dental clinic with a professional and accessible online presence. | [Live ↗](https://github.com/Raj-max-pixal/David-dental-clinic) · [GitHub ↗](https://daviddental.netlify.app/) |
 
 <br>
 
