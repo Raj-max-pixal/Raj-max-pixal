@@ -573,9 +573,9 @@ Nginx
 | **Lumi** | A polished software application focused on practical functionality and a smooth user experience. | [Live ↗](YOUR_LUMI_LIVE_URL) · [GitHub ↗](YOUR_LUMI_GITHUB_URL) |
 | **Maxie** | An AI-powered application built around intelligent features and practical user interaction. | [Live ↗](YOUR_MAXIE_LIVE_URL) · [GitHub ↗](YOUR_MAXIE_GITHUB_URL) |
 | **MultiMax AI Hub** | An AI-focused platform bringing multiple intelligent capabilities together in one experience. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
-| **MultiMax Food** | A food-focused application developed as part of the MultiMax project ecosystem. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **MultiMax Food** | A food-focused application developed as part of the MultiMax project ecosystem. | [Live ↗](https://multimax-food.vercel.app/) · [GitHub ↗](YOUR_URL) |
 | **AnimeVerse** | An anime-focused project designed around entertainment and content discovery. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
-| **Tempumax** | A dedicated application project developed as part of the software portfolio. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **Tempimax** | A dedicated application project developed as part of the software portfolio. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
 | **Premium Calculator** | A polished calculator application designed for a clean and practical calculation experience. | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
 
 <br>
