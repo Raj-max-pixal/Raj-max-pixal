@@ -606,8 +606,8 @@ Nginx
 
 | Project | Description | Contribution | Links |
 |:---|:---|:---|:---:|
-| **Study Notes Sharing** | A collaborative learning platform designed to make study resources easier to share and access. | Development | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
-| **Fitness Tracker** | A fitness-focused application designed to help users track activity and monitor progress. | Development | [Live ↗](YOUR_URL) · [GitHub ↗](YOUR_URL) |
+| **Study Notes Sharing** | A collaborative learning platform designed to make study resources easier to share and access. | Development | [Live ↗](YOUR_URL) · [GitHub ↗](https://github.com/Raj-max-pixal/study-notes-sharing) |
+| **Fitness Tracker** | A fitness-focused application designed to help users track activity and monitor progress. | Development | [Live ↗](YOUR_URL) · [GitHub ↗](https://github.com/Raj-max-pixal/fitness-tracker) |
 
 <br>
 
