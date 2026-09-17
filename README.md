@@ -606,9 +606,9 @@ Nginx
 
 | Project | Description | Contribution | Links |
 |:---|:---|:---|:---:|
-| **Study Notes Sharing** | A collaborative learning platform designed to make study resources easier to share and access. | Development | [Live ↗](YOUR_URL) · [GitHub ↗](https://github.com/Raj-max-pixal/study-notes-sharing) |
-| **Fitness Tracker** | A fitness-focused application designed to help users track activity and monitor progress. | Development | [Live ↗](YOUR_URL) · [GitHub ↗](https://github.com/Raj-max-pixal/fitness-tracker) |
-| **Accident Detector** | Real-time Web-based accident detection interface powered by modern web technologies (JS, Vite, Tailwind CSS). | Development | [Live ↗](YOUR_URL) · [GitHub ↗](https://github.com/Raj-max-pixal/Accident-Detecter) |
+| **Study Notes Sharing** | A collaborative learning platform designed to make study resources easier to share and access. | Development | Coming 🌠 · [GitHub ↗](https://github.com/Raj-max-pixal/study-notes-sharing) |
+| **Fitness Tracker** | A fitness-focused application designed to help users track activity and monitor progress. | Development | [Live ↗](https://fitness-tracker-maxmax.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/fitness-tracker) |
+| **Accident Detector** | Real-time Web-based accident detection interface powered by modern web technologies (JS, Vite, Tailwind CSS). | Development | [Live ↗](https://accident-detecter.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/Accident-Detecter) |
 
 <br>
 
@@ -620,7 +620,7 @@ Nginx
 
 | Project | Description | Status | Link |
 |:---|:---|:---:|:---:|
-| **Instagram Phishing** | A security-learning project exploring phishing techniques and social-engineering risks in a controlled environment. | 🟢 Completed | [GitHub ↗](YOUR_URL) |
+| **Instagram Phishing** | A security-learning project exploring phishing techniques and social-engineering risks in a controlled environment. | 🟢 Completed | [GitHub ↗](https://github.com/Raj-max-pixal/Instagram-phishing) |
 | **MobCam Hacking** | A cybersecurity research project focused on understanding mobile-camera security risks in an authorized environment. | 🔵 Upcoming | — |
 | **Wi-Fi Hacking** | A network-security learning project focused on understanding Wi-Fi vulnerabilities and defensive security. | 🔵 Upcoming | — |
 
