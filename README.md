@@ -633,8 +633,8 @@ Nginx
 
 | Platform | Description | Links |
 |:---|:---|:---:|
-| **LeetCode** | Daily algorithm, data-structure, and problem-solving practice with solutions maintained on GitHub. | [Profile ↗](YOUR_LEETCODE_URL) · [GitHub ↗](YOUR_LEETCODE_GITHUB_URL) |
-| **HackerRank** | Programming challenges and problem-solving solutions maintained as a coding archive. | [Profile ↗](YOUR_HACKERRANK_URL) · [GitHub ↗](YOUR_HACKERRANK_GITHUB_URL) |
+| **LeetCode** | Daily algorithm, data-structure, and problem-solving practice with solutions maintained on GitHub. | [Profile ↗](https://leetcode.com/u/Raj_saran12/) · [GitHub ↗](https://github.com/Raj-max-pixal/daily-leetcode) |
+| **HackerRank** | Programming challenges and problem-solving solutions maintained as a coding archive. | [Profile ↗](https://www.hackerrank.com/profile/rajasaranyaraj20) · [GitHub ↗](https://github.com/Raj-max-pixal/hackerrank-solutions) |
 
 <br>
 
