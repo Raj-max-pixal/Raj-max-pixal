@@ -773,37 +773,90 @@ Nginx
 
 <div align="center">
 
+## 🌐 Connect With Me
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Let's+connect+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80;Open+to+collaborations+%F0%9F%A4%9D;AI+%7C+Full-Stack+%7C+CloudSecOps+%E2%9A%A1" />
+
+<br>
+
 <a href="https://github.com/Raj-max-pixal">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/raja-saranya-t-ba9545342/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/Raja_x_20">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/its.me_ra_s_12">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/its.me_ra_s_12/">
+<br><br>
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-
+<a href="https://leetcode.com/u/Raj_saran12">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+&nbsp;
+<a href="https://www.youtube.com/@RajaSaranya-20">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.reddit.com/user/Raj_x_20/">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@rajasaranyaraj20">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<br><br>
 
 <a href="https://multimax.site">
-
-<img src="https://img.shields.io/badge/MultiMax-000000?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🚀%20MultiMax-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:rajasaranyaraj20@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/📩%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7B61FF,100:FF0080&height=3&section=header&width=750"/>
+
+<br>
+
+### 💫 Find Me Across The Internet
+
+<table>
+<tr>
+<td align="center">💻<br><b>Code</b></td>
+<td align="center">🤖<br><b>AI</b></td>
+<td align="center">🧠<br><b>Learn</b></td>
+<td align="center">🎨<br><b>Create</b></td>
+<td align="center">🌎<br><b>Connect</b></td>
+</tr>
+</table>
+
+<br>
+
+<sub>
+⚡ Building ideas &nbsp;•&nbsp;
+🤖 Exploring AI &nbsp;•&nbsp;
+💻 Writing code &nbsp;•&nbsp;
+🧠 Solving problems &nbsp;•&nbsp;
+🚀 Shipping products
+</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=One+developer.+Many+ideas.+%E2%9A%A1;Code+it.+Build+it.+Ship+it.+%F0%9F%9A%80;Beyond+Tech%2C+Beyond+Limit.+%F0%9F%94%A5" />
 
 </div>
+
 
 ---
 
