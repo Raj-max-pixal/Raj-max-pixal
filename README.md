@@ -648,7 +648,7 @@ Nginx
 
 | Project | Description | Links |
 |:---|:---|:---:|
-| **David Dental Clinic** | A real-world website project developed for a dental clinic with a professional and accessible online presence. | [Live ↗](https://daviddental.netlify.app/) · [GitHub ↗] (https://github.com/Raj-max-pixal/David-dental-clinic) |
+| **David Dental Clinic** | A real-world website project developed for a dental clinic with a professional and accessible online presence. | [Live ↗](https://daviddental.netlify.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/David-dental-clinic) |) |
 | **Multimax** | Showcasing our products, services, projects, innovations, and future technology vision. | [Live ↗](https://multimax-xi.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/multimax) |
 
 
