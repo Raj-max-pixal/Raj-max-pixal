@@ -588,9 +588,9 @@ Nginx
 
 | Project | Hackathon | Description | Links |
 |:---|:---|:---|:---:|
-| **JanVoice AI** | *PromptWars – Google for Developers × Hack2skill* | An AI-focused solution developed to address a practical problem through intelligent technology. | [Live ↗](https://janvoice-ai-gxcz.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/janvoice-ai) |
-| **EcoMind AI** | *PromptWars – Google for Developers × Hack2skill* | An AI-driven solution focused on applying technology to environmental challenges. | [Live ↗](https://ecomind-ai-alpha.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/ecomind-ai/) |
-| **StadiumMind AI** | *PromptWars – Google for Developers × Hack2skill* | An AI-powered solution designed around smarter station experiences and automation. | Coming🌠 · [GitHub ↗](https://github.com/Raj-max-pixal/Stadiummind-AI) |
+| **JanVoice AI** | [*PromptWars – Google for Developers × Hack2skill*](https://promptwars.in/promptwarsVirtual.html) | An AI-focused solution developed to address a practical problem through intelligent technology. | [Live ↗](https://janvoice-ai-gxcz.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/janvoice-ai) |
+| **EcoMind AI** | [*PromptWars – Google for Developers × Hack2skill*](https://promptwars.in/promptwarsVirtual.html) | An AI-driven solution focused on applying technology to environmental challenges. | [Live ↗](https://ecomind-ai-alpha.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/ecomind-ai/) |
+| **StadiumMind AI** | [*PromptWars – Google for Developers × Hack2skill*](https://promptwars.in/promptwarsVirtual.html) | An AI-powered solution designed around smarter station experiences and automation. | Coming🌠 · [GitHub ↗](https://github.com/Raj-max-pixal/Stadiummind-AI) |
 | **StudyBuddy AI Queen** | *Global AI Hackathon Series with Qwen Cloud* | An AI-powered learning companion designed to make studying more interactive and accessible. | [Live ↗](https://studybuddy-ai-qwen.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/studybuddy-ai-qwen) |
 | **MultiMax AI Growth Studio** | *HackIndia* | An AI-powered growth and productivity solution developed during a hackathon. | [Live ↗](https://multimax-ai-growth-studio.vercel.app/) · [GitHub ↗](https://github.com/Raj-max-pixal/multimax-ai-growth-studio) |
 | **Carreforge** | *Agent League-Microsoft x Devpost* | A digital solution developed around a practical user or business challenge. | [Live ↗](https://careerforge-ai-2-wma7.onrender.com/) · [GitHub ↗](https://github.com/Raj-max-pixal/CareerForge-AI) |
